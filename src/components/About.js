@@ -23,7 +23,9 @@ const About = () => {
           paddingTop: "40px"
         }}
       >
-        This summer we have been tasked with 
+        This summer we parnted with Griptape and participated in the Griptape challenge. This Interactive map that showcases women all around the world is our challenge that complemented summer 2021. <br></br>
+        Learn more about the WomenWired team at <a href="https://womenwired.wixsite.com/womenwired">WomenWired Website</a> <br></br>
+        Contact us at womenwired@gmail.com
       </div>
     </Container>
   );

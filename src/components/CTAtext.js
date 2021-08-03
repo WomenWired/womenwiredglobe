@@ -69,7 +69,7 @@ const CTAText = ({ selectedCountry, setSelectedCountry, prepareInitMarkers }) =>
         <p style={{ fontSize: "16px",color: "white",lineHeight: "24px", }}>
 
         Click on the globe to explore the map
-        <br/><br/>Make the connection– Do certain places focus on different keywords to share the same news? Or are certain perspectives entirely missing from others?</p>
+        <br/><br/>All history is important. Let's learn about some of the women who possibily aren't in those history books. </p>
         </div>
        
       </div>

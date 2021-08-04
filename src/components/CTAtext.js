@@ -68,7 +68,7 @@ const CTAText = ({ selectedCountry, setSelectedCountry, prepareInitMarkers }) =>
         <br/><br/><h3 style={{ fontSize: "16px"}}>How it works</h3> 
         <p style={{ fontSize: "16px",color: "white",lineHeight: "24px", }}>
 
-        Click on the globe to explore the map
+        Click on the explore button above to begin.
         <br/><br/>All history is important. Let's learn about some of the women who possibily aren't in those history books. </p>
         </div>
        

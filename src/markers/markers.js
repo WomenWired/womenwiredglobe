@@ -82,9 +82,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "MI",
         date: "26 September 1981",
-        occupation: "",
-        paragraph:
-          "Donald Trump and Mike Pence announced Saturday that the United States will broaden its European travel ban, adding the United Kingdom and Ireland to its list, and was considering imposing restrictions on travel within the U.S."
+        occupation: "Tennis Player",
+        paragraph:"Serena Jameka Williams is an American professional tennis player and former world No. 1 in women's single tennis. She has won 23 Grand Slam singles titles, the most by any player in the Open Era, and the second-most of all time behind Margaret Court"
       },
       {
         id: "2",
@@ -97,24 +96,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
-      },
-      {
-        id: "3",
-        headline:
-          "Elizabeth Blackwell",
-        color: "#FCFEC1",
-        city: "Los Angeles",
-        coordinates: [34.0522, -118.2437],
-        value: 100,
-        tags: "",
-        code: "CA",
-        date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "American poet",
+        paragraph:"Amanda S. C. Gorman is an American poet and activist. Her work focuses on issues of oppression, feminism, race, and marginalization, as well as the African diaspora. Gorman was the first person to be named National Youth Poet Laureate. She published the poetry book The One for Whom Food Is Not Enough in 2015."
       },
         {
         id: "4",
@@ -127,10 +110,9 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
-      },
+        occupation: "Chinese-American physicist",
+        paragraph: "Chien-Shiung Wu was a Chinese-American particle and experimental physicist who made significant contributions in the fields of nuclear and particle physics. Wu worked on the Manhattan Project, where she helped develop the process for separating uranium into uranium-235 and uranium-238 isotopes by gaseous diffusion."
+            },
       {
         id: "5",
         headline:
@@ -142,9 +124,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "American engineer",
+        paragraph:"Mae Carol Jemison is an American engineer, physician, and former NASA astronaut. She became the first black woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour."
       },
       {
         id: "6",
@@ -157,9 +138,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "American mathematician",
+        paragraph:"Creola Katherine Johnson was an American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights."
       },
       {
         id: "7",
@@ -172,9 +152,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "American aviator ",
+        paragraph:"Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean. She set many other records, wrote best-selling books about her flying experiences, and was instrumental in the formation of The Ninety-Nines, an organization for female pilots"
       },
       {
         id: "8",
@@ -187,9 +166,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "American journalist",
+        paragraph:"Elizabeth Cochrane Seaman, better known by her pen name Nellie Bly, was an American journalist, industrialist, inventor, and charity worker who was widely known for her record-breaking trip"
       },
       {
         id: "9",
@@ -202,9 +180,8 @@ const AllMarkersByCountry = {
         tags: "",
         code: "CA",
         date: "7 Mar 1998",
-        occupation: "",
-        paragraph:
-          "U.S. President Donald Trump was considering a national disaster declaration and new travel advisories while Congress unveiled a coronavirus aid package as Washington raced Wednesday to confront the outbreak."
+        occupation: "Singer",
+        paragraph:"Beyoncé Giselle Knowles-Carter is an American singer, songwriter, record producer, and actress. Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child."
       },
 
 
@@ -219,7 +196,7 @@ const AllMarkersByCountry = {
         tags: "",
         code: "HI",
         date: "Born in September 2, 1838 Death Novemener 11,1917",
-        occupation: "",
+        occupation: "Queen regnant",
         paragraph:
           "Queen Lili’uokalani also known as Lydia Lili’u Lokoku Walania Wewehi Kamaka’ena. Her and her family were close with the royal court and worked on charity projects with the king and queen. When her brother died after being the successor, she was sworn as queen. Her main goal was to reestablish power and sovereignty that her brother had to give up to the United States. Eventually, she tried to rewrite the Constitution and restore the monarchy but a coup d’état was created and she was overthrown and the United States was able to seize Hawaii."
       },
@@ -248,7 +225,6 @@ const AllMarkersByCountry = {
         tags: "",
         code: "MX",
         date: "Born on July 6th, 1907 | Death July 13th, 1954",
-        occupation: "",
         occupation: "Painter",
         paragraph:
           "When Kahlo was just 6 she had polio and then again at 18 she hurt her ribs, shoulders, legs and collarbone in an accident. Then later she lost her child and had a strained marriage with her husband. She didn’t let these setbacks get to her and created her first self portrait at 19. Her life and body is what motivated her mostly and she was known as someone who painted self portraits."

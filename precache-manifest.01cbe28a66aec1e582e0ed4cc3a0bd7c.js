@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "401d3ea4ff3b6a1e97716b022ed16200",
+    "revision": "036aff726851fe4ba656d18e9fb9d25c",
     "url": "/womenwiredglobe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/womenwiredglobe/static/css/2.61a570a4.chunk.css"
   },
   {
-    "revision": "7afcc903265497553f17",
+    "revision": "81826ba1840949220eda",
     "url": "/womenwiredglobe/static/css/main.890b0b59.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/womenwiredglobe/static/js/2.7df0c7d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7afcc903265497553f17",
-    "url": "/womenwiredglobe/static/js/main.222969d0.chunk.js"
+    "revision": "81826ba1840949220eda",
+    "url": "/womenwiredglobe/static/js/main.0ace1a67.chunk.js"
   },
   {
     "revision": "e39599b09ea94091ee50",

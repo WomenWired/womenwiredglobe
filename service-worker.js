@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/womenwiredglobe/precache-manifest.f366484a49cc8c2d76f62848de771a62.js"
+  "/womenwiredglobe/precache-manifest.01cbe28a66aec1e582e0ed4cc3a0bd7c.js"
 );
 
 self.addEventListener('message', (event) => {
